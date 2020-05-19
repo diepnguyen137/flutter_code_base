@@ -1,0 +1,8 @@
+{
+  "@@last_modified": "2020-02-21T09:56:48.804214",
+  "hello": "Hello",
+  "@hello": {
+    "type": "text",
+    "placeholders": {}
+  }
+}
