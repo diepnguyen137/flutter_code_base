@@ -1,4 +1,4 @@
-# tshirt_mobile
+# Project name
 
 A new Flutter project.
 
